@@ -11,7 +11,7 @@ class tablero {
 public:
 	tablero(int N = -1, int M = -1);          //valores por defector invalidos por si no inicializamos
 	tablero(const tablero&) = delete;				//=delete, tablero solo hay uno
-	//~matrix	(){}														
+	~matrix	();													
 
 	//I/O
 	std::ostream& print(std::ostream&);
