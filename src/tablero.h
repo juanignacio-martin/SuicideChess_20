@@ -6,7 +6,7 @@ class tablero {
 
 
 	int _N, _M;
-	int** tab = nullptr;
+	int** tab = nullptr;  // puntero doble , debe de ser de piezas 
 
 public:
 	tablero(int N = -1, int M = -1);          //valores por defector invalidos por si no inicializamos
