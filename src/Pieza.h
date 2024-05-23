@@ -5,7 +5,7 @@
 
 class Pieza{
 public:
-	enum class COLOR{BLANCA, NEGRA};//Define Color
+	enum class COLOR {BLANCA, NEGRA};//Define Color
 	enum class TIPO { PEON = 0, TORRE, CABALLO, ALFIL, REINA, REY };//Define Tipo de pieza    
     Pieza(const char* texturePath, COLOR color, TIPO type);//Constructor de una pieza
     virtual ~Pieza() {}//declaracion destructor virtual de la clase pieza
