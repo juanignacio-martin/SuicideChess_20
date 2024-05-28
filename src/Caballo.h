@@ -6,9 +6,11 @@
 class Caballo :public Pieza
 {
 public:
-	Caballo();//constructor
+Caballo(color col)
+        :Pieza(tipo_pieza::CABALLO, col)
+    {}
 	~Caballo();//destructor
-	void dibuja();
-	int getColor() { return Color; }
-	void movimientovalido(int origen, int destino, bool& b);
+	//void dibuja();
+	//int getColor() { return color; }
+	//void movimientovalido(int origen, int destino, bool& b);
 };
