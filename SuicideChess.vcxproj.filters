@@ -57,4 +57,8 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\ETSIDI.lib" />
+    <Library Include="lib\freeglut.lib" />
+  </ItemGroup>
 </Project>
