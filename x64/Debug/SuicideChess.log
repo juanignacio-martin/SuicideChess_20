@@ -1,0 +1,7 @@
+﻿  Pieza.cpp
+D:\Universidad\3.Tercero\Segundo Semestre\Informatica Industrial\Trabajo\kkk\SuicideChess_20\src\Pieza.h(2,9): fatal error C1083: No se puede abrir el archivo incluir: 'ETSIDI.h': No such file or directory
+  principal.cpp
+D:\Universidad\3.Tercero\Segundo Semestre\Informatica Industrial\Trabajo\kkk\SuicideChess_20\src\Pieza.h(2,9): fatal error C1083: No se puede abrir el archivo incluir: 'ETSIDI.h': No such file or directory
+  tablero.cpp
+D:\Universidad\3.Tercero\Segundo Semestre\Informatica Industrial\Trabajo\kkk\SuicideChess_20\src\Pieza.h(2,9): fatal error C1083: No se puede abrir el archivo incluir: 'ETSIDI.h': No such file or directory
+  Generando código...
