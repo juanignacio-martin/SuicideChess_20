@@ -9,7 +9,7 @@ public:
 Caballo(color col)
         :Pieza(tipo_pieza::CABALLO, col)
     {}
-	~Caballo();//destructor
+~Caballo() {};//destructor
 	//void dibuja();
 	//int getColor() { return color; }
 	//void movimientovalido(int origen, int destino, bool& b);
