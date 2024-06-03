@@ -25,6 +25,7 @@ std::ostream& operator<<(std::ostream& os, const Pieza& pieza) {
     }
 
     // Formatear la salida
-    os << tipoStr << colorStr;
+    os << tipoStr <<  colorStr;
     return os;
 }
+
