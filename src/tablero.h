@@ -8,6 +8,7 @@
 #include "Alfil.h"
 #include "Caballo.h"
 #include "Vacio.h"
+#include "vector2d.h"
 
 class tablero {
 
@@ -26,7 +27,7 @@ public:
 	//SET
 	void cell(int i, int j, Pieza val) { tab[i][j] = val; }
 	//GET
-//	int cell(int i, int j)	const { return tab[i][j]; }
+	Pieza* getPieza(int i, int j) {};
 	Pieza* operator[](int i);
 	const Pieza* operator[](int i)const;
 	

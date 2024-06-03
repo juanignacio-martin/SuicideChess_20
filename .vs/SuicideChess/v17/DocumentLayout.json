@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\Alfil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\Alfil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Caballo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\Caballo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\Alfil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\vector2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\vector2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\tablero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\principal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\principal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\tablero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\tablero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Caballo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF307B4-B40F-4652-B8E7-FA916CE5B525}|SuicideChess.vcxproj|solutionrelative:src\\Caballo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +38,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "tablero.h",
+              "DocumentMoniker": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\tablero.h",
+              "RelativeDocumentMoniker": "src\\tablero.h",
+              "ToolTip": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\tablero.h",
+              "RelativeToolTip": "src\\tablero.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T15:42:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector2d.h",
+              "DocumentMoniker": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\vector2d.h",
+              "RelativeDocumentMoniker": "src\\vector2d.h",
+              "ToolTip": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\vector2d.h",
+              "RelativeToolTip": "src\\vector2d.h",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T15:40:34.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Alfil.h",
               "DocumentMoniker": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.h",
               "RelativeDocumentMoniker": "src\\Alfil.h",
               "ToolTip": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.h",
               "RelativeToolTip": "src\\Alfil.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-03T15:29:15.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Alfil.cpp",
               "DocumentMoniker": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.cpp",
               "RelativeDocumentMoniker": "src\\Alfil.cpp",
               "ToolTip": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Alfil.cpp",
               "RelativeToolTip": "src\\Alfil.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-03T15:28:32.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Caballo.h",
               "DocumentMoniker": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Caballo.h",
               "RelativeDocumentMoniker": "src\\Caballo.h",
               "ToolTip": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\Caballo.h",
               "RelativeToolTip": "src\\Caballo.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-03T15:17:00.319Z",
               "EditorCaption": ""
@@ -79,7 +113,7 @@
               "RelativeDocumentMoniker": "src\\tablero.cpp",
               "ToolTip": "C:\\Users\\Luis_vild\u00E9\\Documents\\GitHub\\SuicideChess_20\\src\\tablero.cpp",
               "RelativeToolTip": "src\\tablero.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAiAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-03T15:14:29.904Z",
               "EditorCaption": ""

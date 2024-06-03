@@ -152,6 +152,7 @@
     <ClInclude Include="src\tablero.h" />
     <ClInclude Include="src\Torre.h" />
     <ClInclude Include="src\Vacio.h" />
+    <ClInclude Include="src\vector2d.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Alfil.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="src\Pieza.cpp" />
     <ClCompile Include="src\principal.cpp" />
     <ClCompile Include="src\tablero.cpp" />
+    <ClCompile Include="src\vector2d.cpp" />
     <ClCompile Include="SuicideChess.cpp" />
   </ItemGroup>
   <ItemGroup>
