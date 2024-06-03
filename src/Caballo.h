@@ -1,4 +1,4 @@
-#include "ETSIDI.h"
+/*#include "ETSIDI.h"
 #include "Pieza.h"
 #include <Vector>
 #include <iostream>
@@ -14,3 +14,4 @@ Caballo(color col)
 	//int getColor() { return color; }
 	//void movimientovalido(int origen, int destino, bool& b);
 };
+*/

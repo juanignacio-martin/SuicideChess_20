@@ -23,7 +23,7 @@ void tablero::reserva_inicializacion()
 	
 	// Inicialización
     tab[0][0] = tab[0][7] = Torre(color::NEGRO); // Torres negras	
-    tab[0][1] = tab[0][6] = Caballo(color::NEGRO);; // Caballos negros
+   // tab[0][1] = tab[0][6] = Caballo(color::NEGRO);; // Caballos negros
     tab[0][2] = tab[0][5] = Alfil(color::NEGRO);; // Alfiles negros
     tab[0][3] = Rey(color::NEGRO);;              // Dama negra
     tab[0][4] = Dama(color::NEGRO);;              // Rey negro
@@ -36,7 +36,7 @@ void tablero::reserva_inicializacion()
         tab[6][j] = peon(color::BLANCO);; // Peones blancos
     }
     tab[7][0] = tab[7][7] = Torre(color::BLANCO); // Torres blancas
-    tab[7][1] = tab[7][6] = Caballo(color::BLANCO); // Caballos blancos
+   // tab[7][1] = tab[7][6] = Caballo(color::BLANCO); // Caballos blancos
     tab[7][2] = tab[7][5] = Alfil(color::BLANCO); // Alfiles blancos
     tab[7][3] = Rey(color::BLANCO);              // Dama blanca
     tab[7][4] = Dama(color::BLANCO);              // Rey blanco
