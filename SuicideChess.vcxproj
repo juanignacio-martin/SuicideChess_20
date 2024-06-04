@@ -147,6 +147,7 @@
     <ClInclude Include="src\Alfil.h" />
     <ClInclude Include="src\Caballo.h" />
     <ClInclude Include="src\Dama.h" />
+    <ClInclude Include="src\Menu.h" />
     <ClInclude Include="src\Peon.h" />
     <ClInclude Include="src\Pieza.h" />
     <ClInclude Include="src\Rey.h" />
@@ -155,6 +156,7 @@
     <ClInclude Include="src\Vacio.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Menu.cpp" />
     <ClCompile Include="src\Pieza.cpp" />
     <ClCompile Include="src\principal.cpp" />
     <ClCompile Include="src\tablero.cpp" />
