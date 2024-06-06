@@ -14,3 +14,4 @@ Caballo(color col)
 	//int getColor() { return color; }
 	//void movimientovalido(int origen, int destino, bool& b);
 };
+//prueba cambio
